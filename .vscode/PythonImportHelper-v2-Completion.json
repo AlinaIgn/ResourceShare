@@ -1,0 +1,1372 @@
+[
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.postgres.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.postgres.fields",
+        "description": "django.contrib.postgres.fields",
+        "detail": "django.contrib.postgres.fields",
+        "documentation": {}
+    },
+    {
+        "label": "ArrayField",
+        "importPath": "django.contrib.postgres.fields",
+        "description": "django.contrib.postgres.fields",
+        "isExtraImport": true,
+        "detail": "django.contrib.postgres.fields",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "apps.resources.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "apps.resources.validators",
+        "description": "apps.resources.validators",
+        "detail": "apps.resources.validators",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "apps.resources",
+        "description": "apps.resources",
+        "isExtraImport": true,
+        "detail": "apps.resources",
+        "documentation": {}
+    },
+    {
+        "label": "validators",
+        "importPath": "apps.resources",
+        "description": "apps.resources",
+        "isExtraImport": true,
+        "detail": "apps.resources",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "CreatedModifiedDateTimeBase",
+        "importPath": "apps.core.models",
+        "description": "apps.core.models",
+        "isExtraImport": true,
+        "detail": "apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.user.models",
+        "description": "apps.user.models",
+        "isExtraImport": true,
+        "detail": "apps.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.user.models",
+        "description": "apps.user.models",
+        "isExtraImport": true,
+        "detail": "apps.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-#lasb94e)moc-!wnct4te5v71$ycf^tu#vd$8cyx6ldqx20#y1\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-#lasb94e)moc-!wnct4te5v71$ycf^tu#vd$8cyx6ldqx20#y1\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n]",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n]\nCUSTOM APPS =[\n  \"apps.user \",",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALED_APPS",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "INSTALED_APPS =\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"config.urls\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "ROOT_URLCONF = \"config.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"config.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "apps.settings",
+        "description": "apps.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "apps.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "config.settings.dev",
+        "description": "config.settings.dev",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-w&&i)9h9l",
+        "detail": "config.settings.dev",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "config.asgi",
+        "description": "config.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "config.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "config.urls",
+        "description": "config.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n]",
+        "detail": "config.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "config.wsgi",
+        "description": "config.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "config.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.core.apps",
+        "description": "resource-share-app.apps.core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"apps.core\"",
+        "detail": "resource-share-app.apps.core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CreatedModifiedDateTimeBase",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.core.models",
+        "description": "resource-share-app.apps.core.models",
+        "peekOfCode": "class CreatedModifiedDateTimeBase(models.Model):\n    created_at = models.DateTimeField(auto_now_add=True)\n    modified_at = models.DateTimeField(auto_now=True)\n    class Meta:\n        abstract = True",
+        "detail": "resource-share-app.apps.core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0001_initial",
+        "description": "resource-share-app.apps.resources.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"Tag\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "resource-share-app.apps.resources.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0002_category",
+        "description": "resource-share-app.apps.resources.migrations.0002_category",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"resources\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Category\",\n            fields=[\n                (\n                    \"id\",",
+        "detail": "resource-share-app.apps.resources.migrations.0002_category",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0003_resources_resourcestag_resources_tags_and_more",
+        "description": "resource-share-app.apps.resources.migrations.0003_resources_resourcestag_resources_tags_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        (\"resources\", \"0002_category\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Resources\",\n            fields=[\n                (",
+        "detail": "resource-share-app.apps.resources.migrations.0003_resources_resourcestag_resources_tags_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0004_review",
+        "description": "resource-share-app.apps.resources.migrations.0004_review",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        (\"resources\", \"0003_resources_resourcestag_resources_tags_and_more\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Review\",\n            fields=[\n                (",
+        "detail": "resource-share-app.apps.resources.migrations.0004_review",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0005_alter_category_options_alter_resources_options_and_more",
+        "description": "resource-share-app.apps.resources.migrations.0005_alter_category_options_alter_resources_options_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"resources\", \"0004_review\"),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name=\"category\",\n            options={\"verbose_name_plural\": \"Categories\"},\n        ),\n        migrations.AlterModelOptions(",
+        "detail": "resource-share-app.apps.resources.migrations.0005_alter_category_options_alter_resources_options_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0006_rating",
+        "description": "resource-share-app.apps.resources.migrations.0006_rating",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        (\"resources\", \"0005_alter_category_options_alter_resources_options_and_more\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Rating\",\n            fields=[\n                (",
+        "detail": "resource-share-app.apps.resources.migrations.0006_rating",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.migrations.0007_resourcestag_resource_tag_unique",
+        "description": "resource-share-app.apps.resources.migrations.0007_resourcestag_resource_tag_unique",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"resources\", \"0006_rating\"),\n    ]\n    operations = [\n        migrations.AddConstraint(\n            model_name=\"resourcestag\",\n            constraint=models.UniqueConstraint(\n                models.F(\"resources_id\"),\n                models.F(\"tag_id\"),",
+        "detail": "resource-share-app.apps.resources.migrations.0007_resourcestag_resource_tag_unique",
+        "documentation": {}
+    },
+    {
+        "label": "CustomResources",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.admin",
+        "description": "resource-share-app.apps.resources.admin",
+        "peekOfCode": "class CustomResources(admin.ModelAdmin):\n    list_display = (\n        \"username\",\n        \"user_title\",\n        \"title\",\n        \"link\",\n        \"get_tags\",\n        \"description\",\n    )\n    @admin.display(description=\"Tags\")",
+        "detail": "resource-share-app.apps.resources.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CustomRating",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.admin",
+        "description": "resource-share-app.apps.resources.admin",
+        "peekOfCode": "class CustomRating(admin.ModelAdmin):\n    list_display = (\"get_username\", \"get_resource_title\", \"rate\")\n    @admin.display(description=\"username\")\n    def get_username(self, obj):\n        return obj.user_id.username\n    @admin.display(description=\"resource title\")\n    def get_resource_title(self, obj):\n        return obj.resources_id.title\nclass CustomResourcesTag(admin.ModelAdmin):\n    list_display = (\"get_resource_title\", \"get_tag_name\")",
+        "detail": "resource-share-app.apps.resources.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CustomResourcesTag",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.admin",
+        "description": "resource-share-app.apps.resources.admin",
+        "peekOfCode": "class CustomResourcesTag(admin.ModelAdmin):\n    list_display = (\"get_resource_title\", \"get_tag_name\")\n    @admin.display(description=\"resource title\")\n    def get_resource_title(self, obj):\n        return obj.resources_id.title\n    @admin.display(description=\"Tag\")\n    def get_tag_name(self, obj):\n        return obj.tag_id.name\nadmin.site.register(models.Tag)\nadmin.site.register(models.Category)",
+        "detail": "resource-share-app.apps.resources.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ResourcesConfig",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.apps",
+        "description": "resource-share-app.apps.resources.apps",
+        "peekOfCode": "class ResourcesConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"apps.resources\"",
+        "detail": "resource-share-app.apps.resources.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PostResourceForm",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.form",
+        "description": "resource-share-app.apps.resources.form",
+        "peekOfCode": "class PostResourceForm(forms.Form):\n    title = forms.CharField(\n        widget=forms.TextInput(\n            attrs={\n                \"class\": \"title-input\",\n                \"placeholder\": \"Enter a title\",\n            }\n        )\n    )  # type='text'\n    link = forms.URLField()  # type='url'",
+        "detail": "resource-share-app.apps.resources.form",
+        "documentation": {}
+    },
+    {
+        "label": "Tag",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.models",
+        "description": "resource-share-app.apps.resources.models",
+        "peekOfCode": "class Tag(CreatedModifiedDateTimeBase):\n    # id=None # If you don't want the default id to be created\n    name = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name\nclass Category(CreatedModifiedDateTimeBase):\n    cat = models.CharField(max_length=100)\n    class Meta:\n        verbose_name_plural = \"Categories\"\n    def __str__(self):",
+        "detail": "resource-share-app.apps.resources.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.models",
+        "description": "resource-share-app.apps.resources.models",
+        "peekOfCode": "class Category(CreatedModifiedDateTimeBase):\n    cat = models.CharField(max_length=100)\n    class Meta:\n        verbose_name_plural = \"Categories\"\n    def __str__(self):\n        return self.cat\nclass Resources(CreatedModifiedDateTimeBase):\n    user_id = models.ForeignKey(\"user.User\", null=True, on_delete=models.SET_NULL)\n    cat_id = models.ForeignKey(\n        \"resources.Category\", default=1, on_delete=models.SET_DEFAULT",
+        "detail": "resource-share-app.apps.resources.models",
+        "documentation": {}
+    },
+    {
+        "label": "Resources",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.models",
+        "description": "resource-share-app.apps.resources.models",
+        "peekOfCode": "class Resources(CreatedModifiedDateTimeBase):\n    user_id = models.ForeignKey(\"user.User\", null=True, on_delete=models.SET_NULL)\n    cat_id = models.ForeignKey(\n        \"resources.Category\", default=1, on_delete=models.SET_DEFAULT\n    )\n    title = models.CharField(max_length=200)\n    description = models.TextField()\n    link = models.URLField(max_length=500)\n    tags = models.ManyToManyField(\"resources.Tag\", through=\"ResourcesTag\")\n    # rate = ArrayField(base_field=models.IntegerField())  # INT ARRAY",
+        "detail": "resource-share-app.apps.resources.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResourcesTag",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.models",
+        "description": "resource-share-app.apps.resources.models",
+        "peekOfCode": "class ResourcesTag(CreatedModifiedDateTimeBase):\n    modified_at = None\n    resources_id = models.ForeignKey(\"resources.Resources\", on_delete=models.CASCADE)\n    tag_id = models.ForeignKey(\"resources.Tag\", on_delete=models.CASCADE)\n    class Meta:\n        constraints = [\n            models.UniqueConstraint(\n                \"resources_id\",\n                \"tag_id\",\n                name=\"resource_tag_unique\",",
+        "detail": "resource-share-app.apps.resources.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.models",
+        "description": "resource-share-app.apps.resources.models",
+        "peekOfCode": "class Review(CreatedModifiedDateTimeBase):\n    user_id = models.ForeignKey(\"user.User\", null=True, on_delete=models.SET_NULL)\n    resources_id = models.ForeignKey(\"resources.Resources\", on_delete=models.CASCADE)\n    body = models.TextField()\n    def __str__(self):\n        return f\"{self.user_id.username} - {self.resources_id.title}\"\nclass Rating(CreatedModifiedDateTimeBase):\n    user_id = models.ForeignKey(\"user.User\", null=True, on_delete=models.SET_NULL)\n    resources_id = models.ForeignKey(\"resources.Resources\", on_delete=models.CASCADE)\n    rate = models.IntegerField(validators=[validators.check_rating_range])",
+        "detail": "resource-share-app.apps.resources.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rating",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.models",
+        "description": "resource-share-app.apps.resources.models",
+        "peekOfCode": "class Rating(CreatedModifiedDateTimeBase):\n    user_id = models.ForeignKey(\"user.User\", null=True, on_delete=models.SET_NULL)\n    resources_id = models.ForeignKey(\"resources.Resources\", on_delete=models.CASCADE)\n    rate = models.IntegerField(validators=[validators.check_rating_range])",
+        "detail": "resource-share-app.apps.resources.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "resource-share-app.apps.resources.urls",
+        "description": "resource-share-app.apps.resources.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.home_page, name=\"home-page\"),\n    path(\"resource/<int:id>\", views.resource_detail, name=\"resource-detail\"),\n    path(\"resource/post/\", views.resource_post, name=\"resource-post\"),\n]",
+        "detail": "resource-share-app.apps.resources.urls",
+        "documentation": {}
+    },
+    {
+        "label": "generate_cat_count_list",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.resources.utils",
+        "description": "resource-share-app.apps.resources.utils",
+        "peekOfCode": "def generate_cat_count_list(cat_cnts):\n    result = \"\"\n    for cat_cnt in cat_cnts:\n        result += f\"<li>{cat_cnt['cat_id__cat']}: {cat_cnt['cnt']}</li>\"\n    return result",
+        "detail": "resource-share-app.apps.resources.utils",
+        "documentation": {}
+    },
+    {
+        "label": "check_rating_range",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.resources.validators",
+        "description": "resource-share-app.apps.resources.validators",
+        "peekOfCode": "def check_rating_range(value):\n    if value < 0 or value > 5:\n        raise ValidationError(f\"{value} must be between 0 and 5\")",
+        "detail": "resource-share-app.apps.resources.validators",
+        "documentation": {}
+    },
+    {
+        "label": "HomePage",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.resources.views",
+        "description": "resource-share-app.apps.resources.views",
+        "peekOfCode": "class HomePage(TemplateView):\n    template_name = \"home_page.html\"",
+        "detail": "resource-share-app.apps.resources.views",
+        "documentation": {}
+    },
+    {
+        "label": "home_page",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.resources.views",
+        "description": "resource-share-app.apps.resources.views",
+        "peekOfCode": "def home_page(request):\n    cnt = Resources.objects.all().count()\n    user_cnt = User.objects.filter(is_active=True).count()\n    res_per_cat = Resources.objects.values(\"cat_id__cat\").annotate(cnt=Count(\"cat_id\"))\n    context = {\n        \"cnt\": cnt,\n        \"user_cnt\": user_cnt,\n        \"res_per_cat\": res_per_cat,\n    }\n    return render(",
+        "detail": "resource-share-app.apps.resources.views",
+        "documentation": {}
+    },
+    {
+        "label": "home_page_old",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.resources.views",
+        "description": "resource-share-app.apps.resources.views",
+        "peekOfCode": "def home_page_old(request):\n    cnt = Resources.objects.all().count()\n    user_cnt = User.objects.filter(is_active=True).count()\n    res_per_cat = Resources.objects.values(\"cat_id__cat\").annotate(cnt=Count(\"cat_id\"))\n    response = f\"\"\"\n      <html>\n         <h1>Welcome to ResourceShare</h1>\n         <h3>All Users</h3>\n         <p>{user_cnt} and counting!</p>\n         <p>{cnt} resources and counting!</p>",
+        "detail": "resource-share-app.apps.resources.views",
+        "documentation": {}
+    },
+    {
+        "label": "resource_detail",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.resources.views",
+        "description": "resource-share-app.apps.resources.views",
+        "peekOfCode": "def resource_detail(request, id):\n    res = (\n        Resources.objects.select_related(\"user_id\", \"cat_id\")\n        .prefetch_related(\"tags\")\n        .get(pk=id)\n    )\n    response = f\"\"\"\n      <html>\n         <h1>{res.title}</h1>\n         <p><b>User</b>: {res.user_id.username}</p>",
+        "detail": "resource-share-app.apps.resources.views",
+        "documentation": {}
+    },
+    {
+        "label": "resource_post",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.resources.views",
+        "description": "resource-share-app.apps.resources.views",
+        "peekOfCode": "def resource_post(request):\n    # Unbound, # user made a GET request\n    if request.method == \"GET\":\n        form = PostResourceForm()\n        return render(\n            request,\n            \"resources/resource_post.html\",\n            {\"form\": form},\n        )\n    else:",
+        "detail": "resource-share-app.apps.resources.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.user.migrations.0001_initial",
+        "description": "resource-share-app.apps.user.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        (\"auth\", \"0012_alter_user_first_name_max_length\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"User\",\n            fields=[\n                (",
+        "detail": "resource-share-app.apps.user.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.user.migrations.0002_user_bio_user_title",
+        "description": "resource-share-app.apps.user.migrations.0002_user_bio_user_title",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"user\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"user\",\n            name=\"bio\",\n            field=models.TextField(default=\"\"),\n        ),",
+        "detail": "resource-share-app.apps.user.migrations.0002_user_bio_user_title",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.user.migrations.0003_alter_user_title",
+        "description": "resource-share-app.apps.user.migrations.0003_alter_user_title",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"user\", \"0002_user_bio_user_title\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"user\",\n            name=\"title\",\n            field=models.CharField(\n                blank=True, help_text=\"Your profession\", max_length=100, null=True",
+        "detail": "resource-share-app.apps.user.migrations.0003_alter_user_title",
+        "documentation": {}
+    },
+    {
+        "label": "cap_all_but_upper_first",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.user.templatetags.custom_filter",
+        "description": "resource-share-app.apps.user.templatetags.custom_filter",
+        "peekOfCode": "def cap_all_but_upper_first(value):\n    if value == \"admin\":\n        return value.upper()\n    else:\n        return value.capitalize()",
+        "detail": "resource-share-app.apps.user.templatetags.custom_filter",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "resource-share-app.apps.user.templatetags.custom_filter",
+        "description": "resource-share-app.apps.user.templatetags.custom_filter",
+        "peekOfCode": "register = template.Library()\n@register.filter\ndef cap_all_but_upper_first(value):\n    if value == \"admin\":\n        return value.upper()\n    else:\n        return value.capitalize()",
+        "detail": "resource-share-app.apps.user.templatetags.custom_filter",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.user.admin",
+        "description": "resource-share-app.apps.user.admin",
+        "peekOfCode": "class CustomUser(UserAdmin):\n    # adjustments\n    fieldsets = UserAdmin.fieldsets + ((\"Extra Fields\", {\"fields\": (\"title\", \"bio\")}),)\nadmin.site.register(User, CustomUser)",
+        "detail": "resource-share-app.apps.user.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UserConfig",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.user.apps",
+        "description": "resource-share-app.apps.user.apps",
+        "peekOfCode": "class UserConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"apps.user\"",
+        "detail": "resource-share-app.apps.user.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "resource-share-app.apps.user.models",
+        "description": "resource-share-app.apps.user.models",
+        "peekOfCode": "class User(AbstractUser):\n    title = models.CharField(\n        max_length=100, null=True, blank=True, help_text=\"Your profession\"\n    )\n    bio = models.TextField(default=\"\")\n    class Meta:\n        ordering = [\"username\"]",
+        "detail": "resource-share-app.apps.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "resource-share-app.apps.user.urls",
+        "description": "resource-share-app.apps.user.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"list/\", views.user_list, name=\"user-list\"),\n]",
+        "detail": "resource-share-app.apps.user.urls",
+        "documentation": {}
+    },
+    {
+        "label": "user_list",
+        "kind": 2,
+        "importPath": "resource-share-app.apps.user.views",
+        "description": "resource-share-app.apps.user.views",
+        "peekOfCode": "def user_list(request):\n    users = User.objects.all()\n    context = {\"users\": users}\n    return render(request, \"user/user_list.html\", context)",
+        "detail": "resource-share-app.apps.user.views",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent.parent\n# Application definition\nDEFAULT_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n]",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_APPS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "DEFAULT_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n]\nCUSTOM_APPS = [\n    \"apps.user\",",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOM_APPS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "CUSTOM_APPS = [\n    \"apps.user\",\n    \"apps.resources\",\n    \"apps.core\",\n]\nTHIRD_PARTY_APPS = []\nINSTALLED_APPS = [*DEFAULT_APPS, *CUSTOM_APPS, *THIRD_PARTY_APPS]\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "THIRD_PARTY_APPS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "THIRD_PARTY_APPS = []\nINSTALLED_APPS = [*DEFAULT_APPS, *CUSTOM_APPS, *THIRD_PARTY_APPS]\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "INSTALLED_APPS = [*DEFAULT_APPS, *CUSTOM_APPS, *THIRD_PARTY_APPS]\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"config.urls\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "ROOT_URLCONF = \"config.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [str(BASE_DIR / \"templates\")],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [str(BASE_DIR / \"templates\")],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "WSGI_APPLICATION = \"config.wsgi.application\"\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"user.User\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"user.User\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "STATIC_URL = \"/static/\"\nSTATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"user.User\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "STATICFILES_DIRS = [str(BASE_DIR / \"static\")]\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"user.User\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nAUTH_USER_MODEL = \"user.User\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.base",
+        "description": "resource-share-app.config.settings.base",
+        "peekOfCode": "AUTH_USER_MODEL = \"user.User\"",
+        "detail": "resource-share-app.config.settings.base",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.dev",
+        "description": "resource-share-app.config.settings.dev",
+        "peekOfCode": "env = environ.Env()\nenviron.Env.read_env(str(BASE_DIR / \".env\"))\nSECRET_KEY = env.str(\"SECRET_KEY\")\nALLOWED_HOSTS = [\"127.0.0.1\"]\nDEBUG = True\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",",
+        "detail": "resource-share-app.config.settings.dev",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.dev",
+        "description": "resource-share-app.config.settings.dev",
+        "peekOfCode": "SECRET_KEY = env.str(\"SECRET_KEY\")\nALLOWED_HOSTS = [\"127.0.0.1\"]\nDEBUG = True\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": env.str(\"DB_NAME\"),\n        \"USER\": env.str(\"DB_USER\"),",
+        "detail": "resource-share-app.config.settings.dev",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.dev",
+        "description": "resource-share-app.config.settings.dev",
+        "peekOfCode": "ALLOWED_HOSTS = [\"127.0.0.1\"]\nDEBUG = True\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": env.str(\"DB_NAME\"),\n        \"USER\": env.str(\"DB_USER\"),\n        \"PASSWORD\": env.str(\"DB_PWD\"),",
+        "detail": "resource-share-app.config.settings.dev",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.dev",
+        "description": "resource-share-app.config.settings.dev",
+        "peekOfCode": "DEBUG = True\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": env.str(\"DB_NAME\"),\n        \"USER\": env.str(\"DB_USER\"),\n        \"PASSWORD\": env.str(\"DB_PWD\"),\n        \"HOST\": env.str(\"DB_HOST\"),",
+        "detail": "resource-share-app.config.settings.dev",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "resource-share-app.config.settings.dev",
+        "description": "resource-share-app.config.settings.dev",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": env.str(\"DB_NAME\"),\n        \"USER\": env.str(\"DB_USER\"),\n        \"PASSWORD\": env.str(\"DB_PWD\"),\n        \"HOST\": env.str(\"DB_HOST\"),\n        \"PORT\": env.int(\"DB_PORT\"),\n    }\n}",
+        "detail": "resource-share-app.config.settings.dev",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "resource-share-app.config.asgi",
+        "description": "resource-share-app.config.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "resource-share-app.config.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "resource-share-app.config.urls",
+        "description": "resource-share-app.config.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\", include(\"apps.resources.urls\")),\n    path(\"user/\", include(\"apps.user.urls\")),\n]",
+        "detail": "resource-share-app.config.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "resource-share-app.config.wsgi",
+        "description": "resource-share-app.config.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "resource-share-app.config.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "resource-share-app.manage",
+        "description": "resource-share-app.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"config.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "resource-share-app.manage",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"config.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
